@@ -3,7 +3,7 @@ import java.util.concurrent.Semaphore;
 import java.util.LinkedList;
 
 
-public class project2 {
+public class dmv {
 
     //How many customers to simulate
     public static final int NUM_CUSTOMERS = 20;
